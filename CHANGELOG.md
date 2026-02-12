@@ -1,5 +1,7 @@
 # Changelog
 
+## [2026.2.11](https://github.com/jdx/mise/compare/v2026.2.10..v2026.2.11) - 2026-02-12
+
 ## [2026.2.10](https://github.com/jdx/mise/compare/v2026.2.9..v2026.2.10) - 2026-02-12
 
 ### 🚀 Features
